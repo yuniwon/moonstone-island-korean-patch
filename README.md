@@ -47,6 +47,10 @@ Moonstone Island용 비공식 한글 번역 패치입니다.
 
 설치 후 빠른 점검은 `PLAYTEST_CHECKLIST.txt`를 참고해 주세요.
 
+배포 전 텍스트 자동 점검은 아래 명령으로 실행할 수 있습니다.
+
+`python check_kr_quality.py`
+
 ## 후원 안내 (선택)
 
 이 프로젝트는 무료 비공식 팬 번역입니다.
