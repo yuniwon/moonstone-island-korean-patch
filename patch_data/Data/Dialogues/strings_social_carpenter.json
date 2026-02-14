@@ -12872,7 +12872,7 @@
         "실수한 거예요."
       ],
       [
-        "Adios, mi amor!{random}사랑해요.{random}Paolo 배고파요.",
+        "Adios, mi amor!{random}사랑해요.{random}파올로 배고파요.",
         "{mood:laugh}아, 솔직하시군요!{break}{mood:default}Ay, 오랫동안 그래왔어요. 이혼 이후로요.{break}매우 민감한 아이였어요. 정말 큰 충격을 받았죠.{break}{mood:like}하지만 Lina와 제가 함께 있지 않는 게 훨씬 나아요, 당시엔 그렇게 못 느꼈어도요.{break}한테도 마음을 열 거예요. 시간이 좀 걸릴 수 있지만요.{break}{mood:laugh}따뜻해진다는 얘기가 나와서 말인데, 좀 추워지네요.{break}{mood:like}안으로 들어가요.",
         "정말 잘 잊어버려요. 미안해요."
       ],
@@ -13033,12 +13033,12 @@
       ],
       [
         "의자 사고 싶어요?{break}{mood:like}의자 사야 해요. 제가 만든 거 있거든요.",
-        "{mood:happy}훌륭한 선택이에요! 저는 stout 주문할게요.{break}{mood:like}원하면 나눠 마실 수 있어요.{break}저처럼 모험적인 기분이어서 기뻐요!{break}이 두 음료 모두 끔찍할 거라고 거의 확신해요.{break}{mood:happy}하지만 시도하지 않으면 절대 모르죠!{break}{mood:like}그리고 기록해두자면, 과의 데이트에 예스라고 한 무서운 선택을 한 게 기뻐요.{break}{mood:laugh}무섭다는 게 아니에요, 물론!{break}{mood:like}하지만 이런 인구 규모에서 데이트가 잘못될 가능성? 그게 무서울 수 있죠.{break}{mood:happy}여기 있어요, 제가 가서 주문할게요. Paolo, 출동!",
+        "{mood:happy}훌륭한 선택이에요! 저는 stout 주문할게요.{break}{mood:like}원하면 나눠 마실 수 있어요.{break}저처럼 모험적인 기분이어서 기뻐요!{break}이 두 음료 모두 끔찍할 거라고 거의 확신해요.{break}{mood:happy}하지만 시도하지 않으면 절대 모르죠!{break}{mood:like}그리고 기록해두자면, 과의 데이트에 예스라고 한 무서운 선택을 한 게 기뻐요.{break}{mood:laugh}무섭다는 게 아니에요, 물론!{break}{mood:like}하지만 이런 인구 규모에서 데이트가 잘못될 가능성? 그게 무서울 수 있죠.{break}{mood:happy}여기 있어요, 제가 가서 주문할게요. 파올로, 출동!",
         ""
       ],
       [
         "지금 커피 한 잔을 위해서라면 왼쪽 신장이라도 팔 수 있어요.",
-        "{mood:laugh}제 마음에 꼭 맞는 맥주 애호가네요! 저도 stout 주문할 거예요.{break}{mood:like}솔직히 ale을 선택해줬으면 했어요. 나눠 마실 수 있었을 텐데...{break}{mood:happy}하지만 아마 같은 경험을 함께하는 게 더 나을 거예요.{break}{mood:like}그리고 저와 함께... 모험적이 되기로 해줘서 고마워요.{break}이 맥주들이 끔찍할 거라고 거의 확신해요.{break}하지만 안전한 길만 고수하는 건 제 재미의 정의가 아니었거든요.{break}{mood:happy}여기 있어요, 제가 주문할게요! Paolo, 출동!",
+        "{mood:laugh}제 마음에 꼭 맞는 맥주 애호가네요! 저도 stout 주문할 거예요.{break}{mood:like}솔직히 ale을 선택해줬으면 했어요. 나눠 마실 수 있었을 텐데...{break}{mood:happy}하지만 아마 같은 경험을 함께하는 게 더 나을 거예요.{break}{mood:like}그리고 저와 함께... 모험적이 되기로 해줘서 고마워요.{break}이 맥주들이 끔찍할 거라고 거의 확신해요.{break}하지만 안전한 길만 고수하는 건 제 재미의 정의가 아니었거든요.{break}{mood:happy}여기 있어요, 제가 주문할게요! 파올로, 출동!",
         ""
       ],
       [
@@ -13049,7 +13049,7 @@
       [
         "",
         "",
-        "{mood:happy}오, 와!{break}{mood:like}Spirit를 이렇게 가까이서 본 적이 없어요... 아름답네요.{break}{mood:happy}정말 고마워요! 벌써 사랑스러워요!{break}{mood:like}그리고 감사의 표시로 이 제작 도안를 받아요. 공짜예요!"
+        "{mood:happy}오, 와!{break}{mood:like}Spirit를 이렇게 가까이서 본 적이 없어요... 아름답네요.{break}{mood:happy}정말 고마워요! 벌써 사랑스러워요!{break}{mood:like}그리고 감사의 표시로 이 제작 도안을 받아요. 공짜예요!"
       ],
       [
         "{mood:awkward}너무 가까이 오지 마요!{break}{mood:laugh}지난 한 시간 동안 경첩에 기름칠했거든요.",
@@ -13078,7 +13078,7 @@
       ],
       [
         "Gaiana가 또 한마디 했어요?{break}{mood:laugh}괜찮아요, 충분히 넘길 수 있을 거예요!",
-        "{mood:laugh}물론이죠! 여러 가지 중에서도 농부잖아요.{break}{mood:like}원예학자들한테 빠지는 게 제 인생의 운명인 것 같아요.{break}{mood:happy}불평하는 건 아니에요. 명예로운 취미죠.{break}{mood:like}자라는 것을 돌보고 보살피는 것... 그건 아름다워요.{break}{mood:laugh}저는 그런 재능이 없었어요... Gaiana 빼고는요!{break}{mood:like}이제 끝내야겠어요, 안 그러면 절대 안 떠날 거예요.{break}집까지 데려다줄게요.",
+        "{mood:laugh}물론이죠! 여러 가지 중에서도 농부잖아요.{break}{mood:like}원예학자들한테 빠지는 게 제 인생의 운명인 것 같아요.{break}{mood:happy}불평하는 건 아니에요. 명예로운 취미죠.{break}{mood:like}자라는 것을 돌보고 보살피는 것... 그건 아름다워요.{break}{mood:laugh}저는 그런 재능이 없었어요... 가이아나 빼고는요!{break}{mood:like}이제 끝내야겠어요, 안 그러면 절대 안 떠날 거예요.{break}집까지 데려다줄게요.",
         ""
       ],
       [
@@ -13104,7 +13104,7 @@
       [
         "{mood:like}오늘은 Gaiana의 생일이에요.{break}항상 Yarrow를 좋아했어요.{break}하지만 급하면 어떤 식물이든 선물로 괜찮아요!",
         "너무 열심히 일한다는 거 알아요.",
-        "{mood:happy}오, 저는 세상에서 가장 운 좋은 Paolo예요! 네, 물론이죠, 네!{break}{mood:love}Mi amor, 세상에서 가장 행복한 사람으로 만들어줄게요. Paolo 보증이에요."
+        "{mood:happy}오, 저는 세상에서 가장 운 좋은 Paolo예요! 네, 물론이죠, 네!{break}{mood:love}Mi amor, 세상에서 가장 행복한 사람으로 만들어줄게요. 파올로 보증이에요."
       ],
       [
         "오늘 덥네요, 그렇죠?{break}{mood:like}벌써 거의 여름일 거예요.",
@@ -13118,7 +13118,7 @@
       ],
       [
         "이거 말했다고 하지 마요, 하지만 제 딸 Gaiana는...{break}매우 사생활을 중시해요.{break}{mood:laugh}저를 전혀 안 닮았어요!",
-        "Ay, 그럼 아마 쉬어야 할 때인가 봐요?{break}심부름 다니고 정령들을 돕느라 열심히 일하는 걸 봤어요...{break}{mood:like}하지만, mi amor, 세상은 하루 이틀 기다릴 수 있어요.{break}{mood:laugh}Gaiana 걱정하는 만큼 도 걱정돼요!{break}{mood:like}하지만, en serio, 쉬어야 하면 제 가게로 와요.{break}잠깐 앉아만 있어요. 아무것도 하지 말고요.{break}{mood:default}이 데이트가 즐겁긴 하지만...{break}{mood:laugh}집으로 보내드려야 할 것 같아요. 지쳐 보여요!",
+        "Ay, 그럼 아마 쉬어야 할 때인가 봐요?{break}심부름 다니고 정령들을 돕느라 열심히 일하는 걸 봤어요...{break}{mood:like}하지만, mi amor, 세상은 하루 이틀 기다릴 수 있어요.{break}{mood:laugh}가이아나 걱정하는 만큼 도 걱정돼요!{break}{mood:like}하지만, en serio, 쉬어야 하면 제 가게로 와요.{break}잠깐 앉아만 있어요. 아무것도 하지 말고요.{break}{mood:default}이 데이트가 즐겁긴 하지만...{break}{mood:laugh}집으로 보내드려야 할 것 같아요. 지쳐 보여요!",
         ""
       ],
       [
@@ -13137,7 +13137,7 @@
         "{mood:happy}정말 기뻐요! 둘이 정말 잘 어울려요.{break}나중에 Paolo가 만든 유아용 침대가 필요하면 어디로 와야 하는지 알죠!"
       ],
       [
-        "좋은 침대가 필요하면, 제가 제대로 만들어드릴게요.{break}{mood:like}Paolo 침대 프레임이면 아기처럼 푹 잘 거예요... 아니면 환불!{break}{mood:laugh}에이, 그건 보장 못 해요.",
+        "좋은 침대가 필요하면, 제가 제대로 만들어드릴게요.{break}{mood:like}파올로 침대 프레임이면 아기처럼 푹 잘 거예요... 아니면 환불!{break}{mood:laugh}에이, 그건 보장 못 해요.",
         "{mood:like}훌륭한 데이트 장소예요. 다른 사람이랑 여기 온 지 몇 년 됐어요!{break}사실... 마지막이 Gaiana가 아이였을 때인 것 같아요.{break}{mood:laugh}좋네요! 생각만 하며 혼자 있는 것보다 나아요.{break}{mood:happy}아, 이제 추억에 잠기네요... Gaiana가 인어 흉내 내며 \"꼬리\"로 저한테 물 튀기려고 했었어요.{break}{mood:laugh}그거 말했다고 하지 마요.{break}{mood:happy}좋은 추억 고마워요! 다시 아이가 된 기분이에요!",
         ""
       ],
@@ -13174,7 +13174,7 @@
       [
         "{mood:like}여기 위가 아름답지 않나요?",
         "",
-        "{mood:like}아하, 아름다운 Paolo's Pie를 만들었군요!{break}{mood:happy}그리고 Paolo를 위한 거예요? 운 좋은 Paolo! 고마워요!"
+        "{mood:like}아하, 아름다운 파올로's Pie를 만들었군요!{break}{mood:happy}그리고 Paolo를 위한 거예요? 운 좋은 파올로! 고마워요!"
       ],
       [
         "{mood:like}정말 사랑스러운 아침이에요.",
@@ -13189,7 +13189,7 @@
       [
         "{mood:happy}아, 드디어 여름 태양이 돌아왔어요!",
         "저랑 있으면 편하다는 거예요?",
-        "{mood:happy}Paolo 만세!"
+        "{mood:happy}파올로 만세!"
       ],
       [
         "오늘 모든 게 50% 할인이에요.{break}{mood:laugh}나머지 50%도 지불한다면요!",
@@ -13247,7 +13247,7 @@
         ""
       ],
       [
-        "Lina, 제 말은 Ofelia 생일 선물로 뭘 줄지 찾는 데 도움이 필요해요?{break}{mood:like}아, Ofelia는 많은 걸 좋아해요.{break}깨우기 위한 커피, 식물에 주는 비료...{break}{mood:happy}그리고 물론 씨앗이요. 항상 새 씨앗을 찾고 있어요!",
+        "리나, 제 말은 오펠리아 생일 선물로 뭘 줄지 찾는 데 도움이 필요해요?{break}{mood:like}아, Ofelia는 많은 걸 좋아해요.{break}깨우기 위한 커피, 식물에 주는 비료...{break}{mood:happy}그리고 물론 씨앗이요. 항상 새 씨앗을 찾고 있어요!",
         "{mood:sad}오. 안타깝네요.{break}{mood:default}왜 더 일찍 말하지 않았어요?{break}아마 몰랐나 봐요.{break}다음엔 다른 걸 할게요.{break}{mood:sad}하지만 실망이에요. 이 데이트를 고대했거든요.{break}{mood:default}아 뭐. 물기를 닦을까요?",
         ""
       ],
@@ -13353,7 +13353,7 @@
       ],
       [
         "{mood:like}밖에 나가기 좋은 아름다운 날이죠?",
-        "Paolo, 정말 멋져요!",
+        "파올로, 정말 멋져요!",
         ""
       ],
       [
@@ -13403,12 +13403,12 @@
       ],
       [
         "{mood:like}아! 만들 것에 대한 아이디어가 생겼어요!{break}{mood:happy}의자 하나 더!!",
-        "{mood:happy}정말이에요? 그냥 저를 기쁘게 하려고 하는 말이 아니고요?{break}{mood:love}Ay, 정말 멋져요.{break}{mood:like}과 함께 기차를 타고 싶었는데.{break}{mood:happy}산을 넘고 심지어 바다를 건너는 기차도 있었대요!{break}밤새 달리는 기차... 며칠씩 달리는 것도 있었대요!{break}{mood:love}우리 앞으로 지나가는 풍경을 함께 볼 수 있었을 텐데...{break}{mood:sad}하지만 그럴 수 없겠죠.{break}{mood:love}그래도... 우리가 가진 이 삶을 사랑하지 않을 수 없어요.{break}기차가 있든 없든요.{break}{mood:happy}하지만 오늘 밤 야간 기차를 타시겠어요? Paolo Express예요!",
+        "{mood:happy}정말이에요? 그냥 저를 기쁘게 하려고 하는 말이 아니고요?{break}{mood:love}Ay, 정말 멋져요.{break}{mood:like}과 함께 기차를 타고 싶었는데.{break}{mood:happy}산을 넘고 심지어 바다를 건너는 기차도 있었대요!{break}밤새 달리는 기차... 며칠씩 달리는 것도 있었대요!{break}{mood:love}우리 앞으로 지나가는 풍경을 함께 볼 수 있었을 텐데...{break}{mood:sad}하지만 그럴 수 없겠죠.{break}{mood:love}그래도... 우리가 가진 이 삶을 사랑하지 않을 수 없어요.{break}기차가 있든 없든요.{break}{mood:happy}하지만 오늘 밤 야간 기차를 타시겠어요? 파올로 Express예요!",
         ""
       ],
       [
         "",
-        "{mood:laugh}아, 배려가 정말 고마워요.{break}{mood:like}고마워요, mi amor.{break}대화하기 편하고, 알게 되어 기쁜 사람이에요.{break}{mood:default}우리가 함께 기차를 탈 수 없다는 게 슬퍼요...{break}{mood:happy}...하지만 우리가 가진 이 삶도 나쁘지 않아요.{break}{mood:like}대신 Paolo Express 야간 기차에 초대할게요.{break}{mood:happy}경치는 가장 예쁘진 않지만, 침대는 편안해요!",
+        "{mood:laugh}아, 배려가 정말 고마워요.{break}{mood:like}고마워요, mi amor.{break}대화하기 편하고, 알게 되어 기쁜 사람이에요.{break}{mood:default}우리가 함께 기차를 탈 수 없다는 게 슬퍼요...{break}{mood:happy}...하지만 우리가 가진 이 삶도 나쁘지 않아요.{break}{mood:like}대신 파올로 Express 야간 기차에 초대할게요.{break}{mood:happy}경치는 가장 예쁘진 않지만, 침대는 편안해요!",
         ""
       ],
       [

@@ -12238,12 +12238,12 @@
       ],
       [
         "사랑해요.",
-        "{mood:laugh}하! 이렇게 대담하게 작업 거는 사람은 오랜만이에요.{break}{mood:like}마음에 들어요.{break}처음에는 좀 확신이 없었는데, 여기서 잘 지낼 수 있을 것 같아요.{break}Gaiana 말대로 분위기 깨는 소리 같아서 미안한데, 저 이제 집에 가봐야 해요.{break}오늘 즐거웠어요. 고마워요.",
+        "{mood:laugh}하! 이렇게 대담하게 작업 거는 사람은 오랜만이에요.{break}{mood:like}마음에 들어요.{break}처음에는 좀 확신이 없었는데, 여기서 잘 지낼 수 있을 것 같아요.{break}가이아나 말대로 분위기 깨는 소리 같아서 미안한데, 저 이제 집에 가봐야 해요.{break}오늘 즐거웠어요. 고마워요.",
         "{mood:like}어머, 고마워요!{break}{mood:happy}제가 만들기 취미가 많아서 잘 쓸게요!"
       ],
       [
         "Magandang umaga! 좋은 아침이에요!",
-        "{mood:laugh}하! 좋은 시도였어요.{break}{mood:default}Gaiana 또래였던 게 벌써 한참 전이에요.{break}솔직히 말하면, 그런 걸 원하는 사람과 데이트하고 싶지는 않아요.{break}지금 나이의 저 자신에 만족해요. 그리고 장난칠 인내심도 없고요.{break}그러니까 뭘 원하는지 한번 잘 생각해 보세요, 네?{break}{mood:laugh}저는 집에 갈게요. 틀니 빼야 하거든요.",
+        "{mood:laugh}하! 좋은 시도였어요.{break}{mood:default}가이아나 또래였던 게 벌써 한참 전이에요.{break}솔직히 말하면, 그런 걸 원하는 사람과 데이트하고 싶지는 않아요.{break}지금 나이의 저 자신에 만족해요. 그리고 장난칠 인내심도 없고요.{break}그러니까 뭘 원하는지 한번 잘 생각해 보세요, 네?{break}{mood:laugh}저는 집에 갈게요. 틀니 빼야 하거든요.",
         "고마워요."
       ],
       [
@@ -12274,7 +12274,7 @@
       [
         "Kumain ka na? 밥 먹었어요?",
         "그런... 것 같기도 해요.{break}자연스럽게 그런 역할이 되더라고요. 다들 정말 소중하거든요.{break}이렇게 작은 마을에서는 자기 역할을 선택할 수가 없잖아요.{break}엄마 같은 역할이 제게 잘 맞으니까 괜찮긴 한데...{break}{mood:laugh}그렇다 보니 정작 저를 챙겨주는 사람은 없다는 거죠!{break}{mood:default}어머, 벌써 이런 시간이네. 집에 가봐야 해요, 미안해요!{break}{mood:like}또 이렇게 만날 수 있으면 좋겠어요.",
-        "미안해요, Ofelia!"
+        "미안해요, 오펠리아!"
       ],
       [
         "Maligayang Araw! 멋진 하루 보내요!{random}Ingat sa daan. 조심해요!",
@@ -12488,7 +12488,7 @@
       ],
       [
         "{mood:like}28일이 Gaiana의 생일이에요.{break}{mood:happy}희귀한 식물을 좋아해요... 하지만 어떤 식물이든 선물로 좋을 거예요. 혹시 힌트가 필요할까 봐요!",
-        "{mood:sad}오, 죄송해요.{break}이제 제가 문제로 만드는 것 같네요.{break}{mood:default}그래도... 가끔은 누군가 저를 위한 Ofelia가 되어줬으면 좋겠어요.{break}저를 듣고 저를 도와줄 수 있는 Ofelia Senior요.{break}{mood:sad}아, 뭐.{break}{mood:like}한 잔 더 할까요?",
+        "{mood:sad}오, 죄송해요.{break}이제 제가 문제로 만드는 것 같네요.{break}{mood:default}그래도... 가끔은 누군가 저를 위한 Ofelia가 되어줬으면 좋겠어요.{break}저를 듣고 저를 도와줄 수 있는 오펠리아 Senior요.{break}{mood:sad}아, 뭐.{break}{mood:like}한 잔 더 할까요?",
         "저랑... 결혼하자는 거예요?"
       ],
       [
@@ -12537,7 +12537,7 @@
         "{mood:happy}Mabuhay ang bagong kasal! 축하해요! 둘 다 사랑의 긴 삶을 살기를 바라요."
       ],
       [
-        "Gaiana 봤나요? 안경을 안 가져왔는데...{break}오늘 밤 너무 많이 마신 것 같아요.{break}실례할게요. 그녀를 찾아야 해요.",
+        "가이아나 봤나요? 안경을 안 가져왔는데...{break}오늘 밤 너무 많이 마신 것 같아요.{break}실례할게요. 그녀를 찾아야 해요.",
         "",
         ""
       ],
@@ -12558,7 +12558,7 @@
       ],
       [
         "",
-        "그냥 조용히 쉬어요, Ofelia.",
+        "그냥 조용히 쉬어요, 오펠리아.",
         ""
       ],
       [
@@ -12622,8 +12622,8 @@
         ""
       ],
       [
-        "이제쯤 Waldo 얘기는 들으셨겠죠.{break}{mood:sad}그가 떠났을 때 Ossono에게는 정말 힘든 일이었어요.",
-        "...왜 사람들이 저를 Lina라고 부르냐고요?{break}{mood:happy}언제 물어볼까 궁금했어요!{break}{mood:like}Gaiana가 어렸을 때 \"mother\"라는 단어를 말할 수 없었어요.{break}제 언어로는 \"ina\"예요.{break}{mood:laugh}어디로 가는지 짐작할 수 있죠. Ina... Lina.{break}너무 귀엽다고 생각했어요. 그래서 이제 Paolo와 Gaiana가 저를 Lina라고 불러요!{break}{mood:like}좋아해요.",
+        "이제쯤 월도 얘기는 들으셨겠죠.{break}{mood:sad}그가 떠났을 때 Ossono에게는 정말 힘든 일이었어요.",
+        "...왜 사람들이 저를 Lina라고 부르냐고요?{break}{mood:happy}언제 물어볼까 궁금했어요!{break}{mood:like}Gaiana가 어렸을 때 \"mother\"라는 단어를 말할 수 없었어요.{break}제 언어로는 \"ina\"예요.{break}{mood:laugh}어디로 가는지 짐작할 수 있죠. Ina... 리나.{break}너무 귀엽다고 생각했어요. 그래서 이제 Paolo와 Gaiana가 저를 Lina라고 불러요!{break}{mood:like}좋아해요.",
         ""
       ],
       [
@@ -12757,7 +12757,7 @@
         ""
       ],
       [
-        "Gaiana 포기하지 마세요.{break}친해지는 데 시간이 좀 걸릴 뿐이에요.",
+        "가이아나 포기하지 마세요.{break}친해지는 데 시간이 좀 걸릴 뿐이에요.",
         "화난 엄마 에너지는 무서워요!",
         ""
       ],
@@ -12782,7 +12782,7 @@
         ""
       ],
       [
-        "Rowan과 방금 얘기하고 있었어요.{break}{mood:laugh}오, 얼굴 빨개지지 마, Rowan! 괜찮아요!{break}{mood:like}솔직히 젊은 사람들은 너무 긴장해요. 자라면서 벗어날 거예요.",
+        "Rowan과 방금 얘기하고 있었어요.{break}{mood:laugh}오, 얼굴 빨개지지 마, 로완! 괜찮아요!{break}{mood:like}솔직히 젊은 사람들은 너무 긴장해요. 자라면서 벗어날 거예요.",
         "",
         ""
       ],
