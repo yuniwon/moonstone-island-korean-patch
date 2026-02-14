@@ -54,7 +54,7 @@ Moonstone Island용 비공식 한글 번역 패치입니다.
 
 작업 지속 및 API 비용 보전에 힘을 보태고 싶다면 아래 카카오페이 QR을 이용해 주세요.
 
-![카카오페이 후원 QR](assets/kakaopay_qr.jpg)
+<img src="assets/kakaopay_qr.jpg" alt="카카오페이 후원 QR" width="260" />
 
 ## 안내 / 면책
 
